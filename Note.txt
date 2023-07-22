@@ -1,0 +1,7 @@
+npx create-react-app react-task-tracker
+
+cd react-task-tracker
+
+code .
+
+npm start
