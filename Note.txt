@@ -14,3 +14,9 @@ code .
 npm start
 
 npm i react-icons
+
+npm i json-server
+
+npm run server
+
+npm i react-router-dom
